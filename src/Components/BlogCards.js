@@ -33,7 +33,7 @@ class BlogCards extends Component {
       <div className="blogContainer">
         {this.state.blogs.map((blog, index) => {
           return (
-            <Card sx={{ maxWidth: 400 }}>
+            <Card>
               <CardMedia
                 component="img"
                 height="140"
