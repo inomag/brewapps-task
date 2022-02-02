@@ -1,0 +1,40 @@
+{
+    "blogs":[
+        {
+            "name":"leg bar",
+            "username":"@0x2bc08c",
+            "id":"@0x2bc08c",
+            "image":"https://livewallpaperhd.com/minimalist-wallpaper-hd-17205/minimalist-wallpaper-hd/"
+        },
+        {
+            "name":"Meta Trap house",
+            "username":"@freezecorleone",
+            "id":"@0x89000ac",
+            "image":"https://e.snmc.io/i/1200/s/16d3a662ea7399ce55c21ab091479d1f/6815051"
+        },
+        {
+            "name":"Girls Gone Wild",
+            "username":"0xbe0fad52",
+            "id":"0xbe0fad52",
+            "image":"https://c4.wallpaperflare.com/wallpaper/586/603/742/minimalism-4k-for-mac-desktop-wallpaper-preview.jpg"
+        },
+        {
+            "name":"Weeb Nation",
+            "username":"@0x2bc08c",
+            "id":"@0x2bc08c",
+            "image":"https://wallpapercave.com/wp/wp6327228.jpg"
+        },
+        {
+            "name":"NFT Horses",
+            "username":"@freezecorleone",
+            "id":"@0x89000ac",
+            "image":"https://miro.medium.com/max/5040/1*3GWXFm1kakuwl5HFY2hkaw.png"
+        },
+        {
+            "name":"Zaego Systems",
+            "username":"0xbe0fad52",
+            "id":"0xbe0fad52",
+            "image":"https://www.wallpaperkiss.com/wimg/b/167-1672300_big.jpg"
+        }
+    ]
+}

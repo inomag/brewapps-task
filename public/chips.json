@@ -1,0 +1,32 @@
+{
+"chips":[
+    {
+        "name":"24h Trending",
+        "icon":"https://img.icons8.com/emoji/96/000000/fire.png"
+    },
+    {
+        "name":"Latest shows",
+        "icon":""
+    },
+    {
+        "name":"Most Popular",
+        "icon":""
+    },
+    {
+        "name":"In Genesis",
+        "icon":"https://img.icons8.com/emoji/96/000000/gem-stone.png"
+    },
+    {
+        "name":"In Temple",
+        "icon": "https://img.icons8.com/emoji/96/000000/hindu-temple.png"
+    },
+    {
+        "name":"In Void",
+        "icon":"https://img.icons8.com/emoji/96/000000/tornado-emoji.png"
+    },
+    {
+        "name":"#BAYC",
+        "icon":"https://img.icons8.com/fluency/96/000000/gorilla.png"
+    }
+]
+}
